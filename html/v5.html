@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D3.js Visualization</title>
+  <!-- Include D3.js library -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    /* Add any custom styles for your visualization here */
+    svg {
+      border: 1px solid #ddd; /* Border for the SVG container */
+    }
+  </style>
+</head>
+<body>
+
+<!-- SVG container for D3 visualization -->
+<svg width="800" height="400" id="visualization"></svg>
+
+<script>
+  // Your D3.js visualization code goes here
+  // For example:
+  const svg = d3.select("#visualization");
+
+  // Append a circle to the SVG
+  svg.append("circle")
+    .attr("cx", 100)
+    .attr("cy", 100)
+    .attr("r", 50)
+    .attr("fill", "blue");
+</script>
+
+</body>
+</html>

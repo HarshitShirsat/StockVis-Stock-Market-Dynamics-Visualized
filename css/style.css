@@ -1,0 +1,162 @@
+body,
+html {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-size: 18px;
+}
+
+.chart-container-full-width {
+    width: 100%;
+    /* Full width */
+    max-width: 1400px;
+    margin: 20px auto;
+    /* This adds top margin and centers the chart container */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.btn-reset {
+    background-color: #ffa07a;
+    border: none;
+    padding: 5px 15px;
+    margin: 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.sector-dropdown,
+.date-filters {
+    display: flex;
+    align-items: center;
+}
+
+.sector-dropdown select,
+.date-filters input,
+#chart6-dropdown,
+#year {
+    padding: 5px;
+    margin: 0 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+}
+
+#chart1 {
+    position: relative;
+    margin-top: 20px;
+    /* Added top margin for the chart */
+}
+
+.tooltip {
+    background-color: #ffffff;
+    color: #333333;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 14px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    pointer-events: none;
+    /* Tooltip should not interfere with mouse events */
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    z-index: 10;
+    /* Ensure tooltip is above all other elements */
+    border: 1px solid #cccccc;
+}
+
+.focus circle {
+    fill: steelblue;
+    stroke: white;
+    stroke-width: 2px;
+}
+
+.chart-grid {
+    max-width: 1440px;
+    width: 100%;
+    display: grid;
+    margin: 20px auto;
+    grid-template-columns: 1fr 2fr;
+    gap: 10px;
+}
+
+.chart-container-column {
+    width: 100%;
+    /* Full width */
+    max-width: 675px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.chart-container-column-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-container-row {
+    width: 100%;
+    /* Full width */
+    max-width: 675px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    flex: 1;
+    margin-bottom: 10px;
+}
+
+/* For v5 */
+.axis-labelv5 {
+    font-size: 12px;
+}
+
+/* text {
+    font-size: 10px;
+  } */
+
+#tooltipv5 {
+    position: absolute;
+    visibility: hidden;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 12px;
+    pointer-events: none;
+}
+
+#slider-containerv5 {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+#companyRangev5 {
+    margin-left: 10px;
+}
+
+#companyDropdownv4, #priceTypeDropdownv4 {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    appearance: none;
+    background-color: #f8f8f8;
+    cursor: pointer;
+}

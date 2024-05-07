@@ -1,0 +1,3104 @@
+[
+    {
+        "Symbol": "TCS",
+        "Year": 2012,
+        "Open": 457.0465802963,
+        "Close": 463.9750976562
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2013,
+        "Open": 505.7468684604,
+        "Close": 504.6291809082
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2014,
+        "Open": 883.7909880411,
+        "Close": 872.9265136719
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2015,
+        "Open": 1071.0636185063,
+        "Close": 1062.1137695312
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2016,
+        "Open": 1033.6317237941,
+        "Close": 1024.0539550781
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2017,
+        "Open": 1021.1692030587,
+        "Close": 1018.9038696289
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2018,
+        "Open": 1180.1805063008,
+        "Close": 1164.0329589844
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2019,
+        "Open": 1693.264590924,
+        "Close": 1699.3375244141
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2020,
+        "Open": 1999.6875815595,
+        "Close": 1999.3187255859
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2021,
+        "Open": 2707.307985785,
+        "Close": 2752.6647949219
+    },
+    {
+        "Symbol": "TCS",
+        "Year": 2022,
+        "Open": 3563.6950116847,
+        "Close": 3628.0791015625
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2012,
+        "Open": 264.0550632997,
+        "Close": 268.8161315918
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2013,
+        "Open": 225.1284500612,
+        "Close": 223.3149261475
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2014,
+        "Open": 343.7214163282,
+        "Close": 341.3590698242
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2015,
+        "Open": 395.9681042593,
+        "Close": 397.0641479492
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2016,
+        "Open": 453.2728400982,
+        "Close": 455.4361877441
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2017,
+        "Open": 426.0117811286,
+        "Close": 421.7984313965
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2018,
+        "Open": 450.1189953849,
+        "Close": 448.3189086914
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2019,
+        "Open": 584.2222918575,
+        "Close": 587.8463134766
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2020,
+        "Open": 670.8142637637,
+        "Close": 672.5026855469
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2021,
+        "Open": 1176.1792085145,
+        "Close": 1178.5634765625
+    },
+    {
+        "Symbol": "Infosys",
+        "Year": 2022,
+        "Open": 1799.9694724224,
+        "Close": 1810.171875
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2012,
+        "Open": 133.7813568115,
+        "Close": 133.7813568115
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2013,
+        "Open": 134.7846037206,
+        "Close": 135.0738830566
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2014,
+        "Open": 195.7205955844,
+        "Close": 191.7992553711
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2015,
+        "Open": 194.5370121097,
+        "Close": 194.4842071533
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2016,
+        "Open": 201.2565362272,
+        "Close": 200.0521697998
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2017,
+        "Open": 172.661635744,
+        "Close": 171.3895263672
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2018,
+        "Open": 227.4330408671,
+        "Close": 231.1201477051
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2019,
+        "Open": 242.2762801508,
+        "Close": 239.2730102539
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2020,
+        "Open": 241.4299855045,
+        "Close": 242.6053009033
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2021,
+        "Open": 378.6527846829,
+        "Close": 381.652130127
+    },
+    {
+        "Symbol": "Wipro",
+        "Year": 2022,
+        "Open": 707.6586418502,
+        "Close": 708.3485717773
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2012,
+        "Open": 74.1826501833,
+        "Close": 75.0598754883
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2013,
+        "Open": 121.0218314336,
+        "Close": 120.4892501831
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2014,
+        "Open": 248.8252321055,
+        "Close": 246.8052825928
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2015,
+        "Open": 319.0623021618,
+        "Close": 320.6187133789
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2016,
+        "Open": 348.0778138463,
+        "Close": 344.3125
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2017,
+        "Open": 345.3315686426,
+        "Close": 347.6393737793
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2018,
+        "Open": 380.1788449178,
+        "Close": 375.7740783691
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2019,
+        "Open": 414.7993713922,
+        "Close": 413.8723144531
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2020,
+        "Open": 494.6815717221,
+        "Close": 496.8969421387
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2021,
+        "Open": 829.762937912,
+        "Close": 837.2501831055
+    },
+    {
+        "Symbol": "HCLTech",
+        "Year": 2022,
+        "Open": 1193.6939195872,
+        "Close": 1202.5808105469
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2012,
+        "Open": 113.5103271235,
+        "Close": 112.3123855591
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2013,
+        "Open": 185.3549326964,
+        "Close": 184.3675842285
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2014,
+        "Open": 365.7233430679,
+        "Close": 362.3733520508
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2015,
+        "Open": 517.9569755028,
+        "Close": 519.0673217773
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2016,
+        "Open": 425.0463537579,
+        "Close": 421.1189575195
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2017,
+        "Open": 405.2514554946,
+        "Close": 399.9245910645
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2018,
+        "Open": 420.3775095528,
+        "Close": 422.0553283691
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2019,
+        "Open": 613.4226778503,
+        "Close": 616.9401855469
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2020,
+        "Open": 671.4096978387,
+        "Close": 667.9912719727
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2021,
+        "Open": 890.8130836356,
+        "Close": 892.5928955078
+    },
+    {
+        "Symbol": "TechMahindra",
+        "Year": 2022,
+        "Open": 1676.5760595591,
+        "Close": 1667.0025634766
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2012,
+        "Open": 373.096630884,
+        "Close": 375.7217102051
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2013,
+        "Open": 608.7694767723,
+        "Close": 612.0465087891
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2014,
+        "Open": 616.9963031034,
+        "Close": 613.2087402344
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2015,
+        "Open": 865.5295620238,
+        "Close": 870.831237793
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2016,
+        "Open": 748.6612271104,
+        "Close": 754.6317749023
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2017,
+        "Open": 803.5221038716,
+        "Close": 805.6256713867
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2018,
+        "Open": 1148.3842143627,
+        "Close": 1148.1109619141
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2019,
+        "Open": 1332.7548045237,
+        "Close": 1329.8956298828
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2020,
+        "Open": 1222.3759517109,
+        "Close": 1223.8239746094
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2021,
+        "Open": 1249.7813031764,
+        "Close": 1263.4188232422
+    },
+    {
+        "Symbol": "LTIinfotech",
+        "Year": 2022,
+        "Open": 1866.8296564745,
+        "Close": 1894.265625
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2012,
+        "Open": 59.8039221073,
+        "Close": 58.3156280518
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2013,
+        "Open": 96.1838898222,
+        "Close": 96.7379684448
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2014,
+        "Open": 191.9491725411,
+        "Close": 190.1344909668
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2015,
+        "Open": 329.1709795432,
+        "Close": 344.1007995605
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2016,
+        "Open": 260.4129106288,
+        "Close": 262.8629455566
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2017,
+        "Open": 256.050972219,
+        "Close": 258.4367980957
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2018,
+        "Open": 307.6176866818,
+        "Close": 304.1142578125
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2019,
+        "Open": 275.1673316747,
+        "Close": 274.3348083496
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2020,
+        "Open": 307.89123328,
+        "Close": 320.859161377
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2021,
+        "Open": 710.7686129608,
+        "Close": 704.9083251953
+    },
+    {
+        "Symbol": "PersistentSystems",
+        "Year": 2022,
+        "Open": 2372.8336457354,
+        "Close": 2340.2192382812
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2012,
+        "Open": 5.6870896696,
+        "Close": 5.6396970749
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2013,
+        "Open": 5.4975199415,
+        "Close": 5.4027347565
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2014,
+        "Open": 4.407494545,
+        "Close": 4.407494545
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2015,
+        "Open": 15.781673182,
+        "Close": 15.9238500595
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2016,
+        "Open": 45.4967131604,
+        "Close": 45.7810668945
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2017,
+        "Open": 53.8497178586,
+        "Close": 55.946521759
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2018,
+        "Open": 39.2305666042,
+        "Close": 38.6543540955
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2019,
+        "Open": 29.6822821606,
+        "Close": 29.7791252136
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2020,
+        "Open": 69.2081334679,
+        "Close": 68.2821121216
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2021,
+        "Open": 655.5456264163,
+        "Close": 671.9330444336
+    },
+    {
+        "Symbol": "TanlaPlatforms",
+        "Year": 2022,
+        "Open": 1861.0110674428,
+        "Close": 1801.2628173828
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2012,
+        "Open": 74.3304335172,
+        "Close": 73.6525878906
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2013,
+        "Open": 100.4660987814,
+        "Close": 101.7096557617
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2014,
+        "Open": 187.2604181306,
+        "Close": 187.1709136963
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2015,
+        "Open": 271.2783332019,
+        "Close": 274.3455505371
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2016,
+        "Open": 1041.507422656,
+        "Close": 1040.9293212891
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2017,
+        "Open": 656.1376456569,
+        "Close": 658.8659057617
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2018,
+        "Open": 920.807684551,
+        "Close": 907.7198486328
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2019,
+        "Open": 972.0691411183,
+        "Close": 974.2515869141
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2020,
+        "Open": 797.6705358257,
+        "Close": 797.6223144531
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2021,
+        "Open": 1807.8319291822,
+        "Close": 1832.3057861328
+    },
+    {
+        "Symbol": "TataElxsi",
+        "Year": 2022,
+        "Open": 5812.5948169023,
+        "Close": 5818.1723632812
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2012,
+        "Open": 147.8284705324,
+        "Close": 147.0250549316
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2013,
+        "Open": 201.4087892514,
+        "Close": 203.2262573242
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2014,
+        "Open": 304.9823791131,
+        "Close": 313.7144165039
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2015,
+        "Open": 320.2974097247,
+        "Close": 319.427154541
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2016,
+        "Open": 514.1406348827,
+        "Close": 512.4107055664
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2017,
+        "Open": 385.5330044006,
+        "Close": 386.5302734375
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2018,
+        "Open": 600.6611427578,
+        "Close": 607.9136962891
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2019,
+        "Open": 1076.8795080678,
+        "Close": 1082.9927978516
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2020,
+        "Open": 1504.9182911967,
+        "Close": 1493.890625
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2021,
+        "Open": 2592.474153178,
+        "Close": 2610.6955566406
+    },
+    {
+        "Symbol": "Coforge",
+        "Year": 2022,
+        "Open": 5729.6900525962,
+        "Close": 5781.1313476562
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2012,
+        "Open": 22.3091021157,
+        "Close": 22.017168045
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2013,
+        "Open": 24.1059970811,
+        "Close": 23.7234325409
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2014,
+        "Open": 19.486881823,
+        "Close": 19.1156578064
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2015,
+        "Open": 31.2901234912,
+        "Close": 31.638053894
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2016,
+        "Open": 40.9321598742,
+        "Close": 41.424571991
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2017,
+        "Open": 64.5621029097,
+        "Close": 64.4931716919
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2018,
+        "Open": 80.6760433771,
+        "Close": 80.6657028198
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2019,
+        "Open": 63.2000895106,
+        "Close": 63.4304122925
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2020,
+        "Open": 59.0361099243,
+        "Close": 59.0361099243
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2021,
+        "Open": 44.9010175945,
+        "Close": 44.9993782043
+    },
+    {
+        "Symbol": "IOC",
+        "Year": 2022,
+        "Open": 64.1159423724,
+        "Close": 64.9497375488
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2012,
+        "Open": 96.0814666906,
+        "Close": 96.3986282349
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2013,
+        "Open": 106.2040409122,
+        "Close": 105.6317825317
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2014,
+        "Open": 118.1482790081,
+        "Close": 117.374206543
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2015,
+        "Open": 142.6130664239,
+        "Close": 144.2058105469
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2016,
+        "Open": 103.9505756642,
+        "Close": 105.0771789551
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2017,
+        "Open": 128.9128185768,
+        "Close": 129.2152709961
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2018,
+        "Open": 135.4965638094,
+        "Close": 133.5182647705
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2019,
+        "Open": 106.23613608,
+        "Close": 105.1737747192
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2020,
+        "Open": 95.7316968905,
+        "Close": 94.765083313
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2021,
+        "Open": 74.8825737297,
+        "Close": 74.4432601929
+    },
+    {
+        "Symbol": "ONGC",
+        "Year": 2022,
+        "Open": 121.8058736856,
+        "Close": 122.4048461914
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2012,
+        "Open": 45.6724306882,
+        "Close": 45.2579994202
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2013,
+        "Open": 68.3019437575,
+        "Close": 68.0726776123
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2014,
+        "Open": 69.5510681022,
+        "Close": 69.3722763062
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2015,
+        "Open": 132.1159761229,
+        "Close": 133.1950531006
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2016,
+        "Open": 186.5842293465,
+        "Close": 187.221496582
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2017,
+        "Open": 276.6077766312,
+        "Close": 276.8238830566
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2018,
+        "Open": 352.2699191548,
+        "Close": 345.8773803711
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2019,
+        "Open": 258.4424595415,
+        "Close": 262.8446960449
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2020,
+        "Open": 372.6232669644,
+        "Close": 372.3581848145
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2021,
+        "Open": 304.4351231244,
+        "Close": 305.1141357422
+    },
+    {
+        "Symbol": "BPCL",
+        "Year": 2022,
+        "Open": 351.6189787559,
+        "Close": 353.5419006348
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2012,
+        "Open": 47.9073675144,
+        "Close": 48.250453949
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2013,
+        "Open": 45.8536504546,
+        "Close": 45.6492919922
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2014,
+        "Open": 45.3017058401,
+        "Close": 45.2292747498
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2015,
+        "Open": 59.8992061274,
+        "Close": 59.845123291
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2016,
+        "Open": 51.2144363702,
+        "Close": 50.5311164856
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2017,
+        "Open": 61.0475096223,
+        "Close": 60.3746032715
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2018,
+        "Open": 95.3494538279,
+        "Close": 94.562461853
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2019,
+        "Open": 92.6041791466,
+        "Close": 93.4167251587
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2020,
+        "Open": 64.3131193818,
+        "Close": 64.2071685791
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2021,
+        "Open": 69.2542227057,
+        "Close": 69.1144866943
+    },
+    {
+        "Symbol": "GAIL",
+        "Year": 2022,
+        "Open": 77.4708223285,
+        "Close": 78.6373672485
+    },
+    {
+        "Symbol": "AdaniGas",
+        "Year": 2018,
+        "Open": 71.6262686518,
+        "Close": 75.2075805664
+    },
+    {
+        "Symbol": "AdaniGas",
+        "Year": 2019,
+        "Open": 100.7244431385,
+        "Close": 101.3213272095
+    },
+    {
+        "Symbol": "AdaniGas",
+        "Year": 2020,
+        "Open": 162.805637384,
+        "Close": 176.2067260742
+    },
+    {
+        "Symbol": "AdaniGas",
+        "Year": 2021,
+        "Open": 377.1477312667,
+        "Close": 376.5481262207
+    },
+    {
+        "Symbol": "AdaniGas",
+        "Year": 2022,
+        "Open": 1684.243100426,
+        "Close": 1742.9649658203
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2012,
+        "Open": 290.1068722146,
+        "Close": 294.1661987305
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2013,
+        "Open": 356.0348572206,
+        "Close": 354.6427612305
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2014,
+        "Open": 383.1489550008,
+        "Close": 379.4560241699
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2015,
+        "Open": 382.1223546316,
+        "Close": 382.8121643066
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2016,
+        "Open": 440.8538132283,
+        "Close": 443.2768249512
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2017,
+        "Open": 478.5760815008,
+        "Close": 479.0617370605
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2018,
+        "Open": 821.203886734,
+        "Close": 809.6784057617
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2019,
+        "Open": 1008.1682116237,
+        "Close": 1004.3603515625
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2020,
+        "Open": 1368.2163240489,
+        "Close": 1360.6451416016
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2021,
+        "Open": 1816.1863282672,
+        "Close": 1815.7296142578
+    },
+    {
+        "Symbol": "Reliance",
+        "Year": 2022,
+        "Open": 2168.1362294014,
+        "Close": 2203.7521972656
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2012,
+        "Open": 32.4995906532,
+        "Close": 32.4610671997
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2013,
+        "Open": 38.3991209213,
+        "Close": 38.2604980469
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2014,
+        "Open": 32.887105212,
+        "Close": 33.1082420349
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2015,
+        "Open": 79.0090718491,
+        "Close": 79.0880813599
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2016,
+        "Open": 124.4090162062,
+        "Close": 126.4602813721
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2017,
+        "Open": 205.0102724149,
+        "Close": 207.8040771484
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2018,
+        "Open": 307.3281878422,
+        "Close": 303.4774169922
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2019,
+        "Open": 194.9266348257,
+        "Close": 197.3094177246
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2020,
+        "Open": 215.8107430082,
+        "Close": 216.2995605469
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2021,
+        "Open": 186.8119220971,
+        "Close": 188.5160217285
+    },
+    {
+        "Symbol": "HindustanPetroleum",
+        "Year": 2022,
+        "Open": 269.5852143664,
+        "Close": 273.2668151855
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2012,
+        "Open": 120.9594517611,
+        "Close": 119.5313186646
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2013,
+        "Open": 123.6180935176,
+        "Close": 123.4726867676
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2014,
+        "Open": 135.8485373926,
+        "Close": 135.5119628906
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2015,
+        "Open": 168.0065637427,
+        "Close": 169.2690124512
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2016,
+        "Open": 119.6141575508,
+        "Close": 119.2922058105
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2017,
+        "Open": 145.0084825944,
+        "Close": 145.825302124
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2018,
+        "Open": 166.6956549247,
+        "Close": 166.2276611328
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2019,
+        "Open": 122.3063201687,
+        "Close": 122.8304901123
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2020,
+        "Open": 113.7581292743,
+        "Close": 112.9418563843
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2021,
+        "Open": 87.9644881504,
+        "Close": 87.7223815918
+    },
+    {
+        "Symbol": "OilIndia",
+        "Year": 2022,
+        "Open": 169.4118114669,
+        "Close": 169.3266448975
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2012,
+        "Open": 54.1368846932,
+        "Close": 53.8601455688
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2013,
+        "Open": 55.6417963112,
+        "Close": 55.7299766541
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2014,
+        "Open": 44.4718690101,
+        "Close": 44.3819541931
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2015,
+        "Open": 75.7597245962,
+        "Close": 76.8137130737
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2016,
+        "Open": 94.3978147838,
+        "Close": 95.2250595093
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2017,
+        "Open": 136.9784601723,
+        "Close": 137.3302612305
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2018,
+        "Open": 190.2365062274,
+        "Close": 191.6595306396
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2019,
+        "Open": 176.0434581106,
+        "Close": 179.2527923584
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2020,
+        "Open": 218.3318375313,
+        "Close": 216.7868499756
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2021,
+        "Open": 214.4475110448,
+        "Close": 215.3092651367
+    },
+    {
+        "Symbol": "PetronetLNG",
+        "Year": 2022,
+        "Open": 195.2297029188,
+        "Close": 197.349319458
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2015,
+        "Open": 128.9951234468,
+        "Close": 122.5453643799
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2016,
+        "Open": 120.2838274074,
+        "Close": 120.2646942139
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2017,
+        "Open": 100.8237326062,
+        "Close": 101.7744522095
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2018,
+        "Open": 163.2478981582,
+        "Close": 162.7082061768
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2019,
+        "Open": 130.8294482205,
+        "Close": 129.6762084961
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2020,
+        "Open": 232.9329692831,
+        "Close": 248.2344207764
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2021,
+        "Open": 370.6894775069,
+        "Close": 370.0042724609
+    },
+    {
+        "Symbol": "GujaratGas",
+        "Year": 2022,
+        "Open": 625.3229590072,
+        "Close": 629.2496337891
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2012,
+        "Open": 196.1971512696,
+        "Close": 195.2593994141
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2013,
+        "Open": 314.4847378684,
+        "Close": 315.5912780762
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2014,
+        "Open": 310.5565352624,
+        "Close": 309.2315673828
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2015,
+        "Open": 445.8642024653,
+        "Close": 446.3564758301
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2016,
+        "Open": 511.2838427069,
+        "Close": 514.2833251953
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2017,
+        "Open": 575.9862047933,
+        "Close": 570.104675293
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2018,
+        "Open": 897.7772895921,
+        "Close": 889.0521850586
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2019,
+        "Open": 1026.5158282525,
+        "Close": 1036.3823242188
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2020,
+        "Open": 1241.7571002622,
+        "Close": 1244.1898193359
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2021,
+        "Open": 1401.2460979561,
+        "Close": 1386.6984863281
+    },
+    {
+        "Symbol": "HDFCBank",
+        "Year": 2022,
+        "Open": 1451.2890312317,
+        "Close": 1485.1524658203
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2012,
+        "Open": 109.3155116334,
+        "Close": 110.3292312622
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2013,
+        "Open": 185.3243559429,
+        "Close": 187.2723388672
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2014,
+        "Open": 180.9477154517,
+        "Close": 180.4217529297
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2015,
+        "Open": 299.1826101283,
+        "Close": 298.8433227539
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2016,
+        "Open": 225.4629919132,
+        "Close": 226.9298400879
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2017,
+        "Open": 225.7000782041,
+        "Close": 221.869430542
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2018,
+        "Open": 306.5528101645,
+        "Close": 302.9405517578
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2019,
+        "Open": 354.5032042828,
+        "Close": 356.7096557617
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2020,
+        "Open": 530.7439424991,
+        "Close": 527.6473388672
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2021,
+        "Open": 526.4676683632,
+        "Close": 518.5541992188
+    },
+    {
+        "Symbol": "ICICIBank",
+        "Year": 2022,
+        "Open": 732.5873776684,
+        "Close": 753.9325561523
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2012,
+        "Open": 150.8966523297,
+        "Close": 148.0650177002
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2013,
+        "Open": 259.133282846,
+        "Close": 257.8089599609
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2014,
+        "Open": 249.7849411624,
+        "Close": 248.0000915527
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2015,
+        "Open": 487.367325067,
+        "Close": 487.7551574707
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2016,
+        "Open": 439.5823094332,
+        "Close": 439.7289123535
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2017,
+        "Open": 445.3206548323,
+        "Close": 441.7198181152
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2018,
+        "Open": 561.6716397234,
+        "Close": 563.365234375
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2019,
+        "Open": 619.5523671505,
+        "Close": 624.9319458008
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2020,
+        "Open": 752.9842658283,
+        "Close": 746.799987793
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2021,
+        "Open": 618.6760009379,
+        "Close": 622.2169799805
+    },
+    {
+        "Symbol": "AxisBank",
+        "Year": 2022,
+        "Open": 678.5237065735,
+        "Close": 694.582824707
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2012,
+        "Open": 214.7603126334,
+        "Close": 209.2288360596
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2013,
+        "Open": 324.2504297466,
+        "Close": 322.7606506348
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2014,
+        "Open": 363.8705808008,
+        "Close": 359.1730651855
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2015,
+        "Open": 628.7879763145,
+        "Close": 626.2007446289
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2016,
+        "Open": 716.9522588841,
+        "Close": 724.1715698242
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2017,
+        "Open": 717.4151696274,
+        "Close": 712.2338256836
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2018,
+        "Open": 1008.8486750715,
+        "Close": 996.9840087891
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2019,
+        "Open": 1250.9186449097,
+        "Close": 1247.3773193359
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2020,
+        "Open": 1685.7579243067,
+        "Close": 1670.8366699219
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2021,
+        "Open": 1993.0670393296,
+        "Close": 1990.2225341797
+    },
+    {
+        "Symbol": "KotakMahindraBank",
+        "Year": 2022,
+        "Open": 1794.4413068231,
+        "Close": 1821.8521728516
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2012,
+        "Open": 142.9513794377,
+        "Close": 142.8329162598
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2013,
+        "Open": 214.8868513671,
+        "Close": 216.8124237061
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2014,
+        "Open": 161.4334320911,
+        "Close": 160.80027771
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2015,
+        "Open": 288.8552375808,
+        "Close": 290.2881774902
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2016,
+        "Open": 210.6349270462,
+        "Close": 213.2561645508
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2017,
+        "Open": 239.4839663705,
+        "Close": 231.042755127
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2018,
+        "Open": 297.2531345488,
+        "Close": 293.9035339355
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2019,
+        "Open": 284.7160637866,
+        "Close": 286.7258300781
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2020,
+        "Open": 320.3175347757,
+        "Close": 320.0782775879
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2021,
+        "Open": 263.0871999315,
+        "Close": 267.3938293457
+    },
+    {
+        "Symbol": "StateBankofIndia",
+        "Year": 2022,
+        "Open": 446.2294079266,
+        "Close": 454.7290039062
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2012,
+        "Open": 55.7454683162,
+        "Close": 55.414855957
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2013,
+        "Open": 126.1151998449,
+        "Close": 127.0317687988
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2014,
+        "Open": 151.0068900191,
+        "Close": 152.0039215088
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2015,
+        "Open": 339.8332004711,
+        "Close": 341.3695068359
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2016,
+        "Open": 588.8536700354,
+        "Close": 596.6596069336
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2017,
+        "Open": 836.9425938409,
+        "Close": 854.6735839844
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2018,
+        "Open": 1732.8651514428,
+        "Close": 1699.5275878906
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2019,
+        "Open": 2609.4376463479,
+        "Close": 2621.1284179688
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2020,
+        "Open": 4188.1504095236,
+        "Close": 4181.7265625
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2021,
+        "Open": 5260.0492045831,
+        "Close": 5230.2827148438
+    },
+    {
+        "Symbol": "BajajFinance",
+        "Year": 2022,
+        "Open": 6920.2896814573,
+        "Close": 7162.9711914062
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2012,
+        "Open": 210.6265633184,
+        "Close": 211.5139007568
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2013,
+        "Open": 394.7623182245,
+        "Close": 397.8643798828
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2014,
+        "Open": 399.7409470267,
+        "Close": 400.450378418
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2015,
+        "Open": 764.931620499,
+        "Close": 773.1198120117
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2016,
+        "Open": 925.5407463583,
+        "Close": 921.5727539062
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2017,
+        "Open": 1065.6603018252,
+        "Close": 1044.0581054688
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2018,
+        "Open": 1592.1231328151,
+        "Close": 1564.9934082031
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2019,
+        "Open": 1554.0654517524,
+        "Close": 1549.7917480469
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2020,
+        "Open": 1476.3547896251,
+        "Close": 1449.3078613281
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2021,
+        "Open": 873.9005247335,
+        "Close": 878.9291381836
+    },
+    {
+        "Symbol": "IndusIndBank",
+        "Year": 2022,
+        "Open": 871.5372033425,
+        "Close": 895.1850585938
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2012,
+        "Open": 42.0704049522,
+        "Close": 40.8121795654
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2013,
+        "Open": 90.1637274309,
+        "Close": 90.3520355225
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2014,
+        "Open": 73.9102039161,
+        "Close": 75.5096054077
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2015,
+        "Open": 130.365648937,
+        "Close": 128.0467529297
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2016,
+        "Open": 198.2486509532,
+        "Close": 197.6309967041
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2017,
+        "Open": 289.0102003852,
+        "Close": 294.1611328125
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2018,
+        "Open": 519.599823687,
+        "Close": 515.9931640625
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2019,
+        "Open": 650.187313434,
+        "Close": 650.8809204102
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2020,
+        "Open": 940.4089366335,
+        "Close": 936.260925293
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2021,
+        "Open": 891.9919963367,
+        "Close": 886.0437011719
+    },
+    {
+        "Symbol": "BajajFinserv",
+        "Year": 2022,
+        "Open": 1639.1954906685,
+        "Close": 1696.6245117188
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2017,
+        "Open": 304.7619695368,
+        "Close": 338.77734375
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2018,
+        "Open": 383.291996954,
+        "Close": 384.426574707
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2019,
+        "Open": 382.6013802501,
+        "Close": 381.2201538086
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2020,
+        "Open": 617.3969486056,
+        "Close": 615.8609008789
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2021,
+        "Open": 670.415769868,
+        "Close": 672.2987060547
+    },
+    {
+        "Symbol": "HDFCLife",
+        "Year": 2022,
+        "Open": 650.0307598422,
+        "Close": 646.5520019531
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2017,
+        "Open": 723.9892964407,
+        "Close": 696.9505004883
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2018,
+        "Open": 683.6035110877,
+        "Close": 689.0211181641
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2019,
+        "Open": 588.052440805,
+        "Close": 591.6088867188
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2020,
+        "Open": 956.5139462578,
+        "Close": 967.8137207031
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2021,
+        "Open": 895.0591434329,
+        "Close": 887.5260009766
+    },
+    {
+        "Symbol": "SBILife",
+        "Year": 2022,
+        "Open": 1188.8467468525,
+        "Close": 1202.1666259766
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2012,
+        "Open": 332.8919467424,
+        "Close": 328.2021789551
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2013,
+        "Open": 438.9899246244,
+        "Close": 443.2081604004
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2014,
+        "Open": 485.7907573559,
+        "Close": 487.2379150391
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2015,
+        "Open": 659.4574481323,
+        "Close": 658.7192382812
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2016,
+        "Open": 761.0932728789,
+        "Close": 758.0400390625
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2017,
+        "Open": 747.1132522943,
+        "Close": 744.7221069336
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2018,
+        "Open": 1252.6344574758,
+        "Close": 1232.0168457031
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2019,
+        "Open": 1694.3663830747,
+        "Close": 1672.3603515625
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2020,
+        "Open": 1814.3803060447,
+        "Close": 1820.5379638672
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2021,
+        "Open": 2291.7024141165,
+        "Close": 2284.1923828125
+    },
+    {
+        "Symbol": "HindustanUnilever",
+        "Year": 2022,
+        "Open": 2305.5994638067,
+        "Close": 2289.4079589844
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2012,
+        "Open": 360.8942280304,
+        "Close": 351.7880249023
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2013,
+        "Open": 440.2180854721,
+        "Close": 435.8695983887
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2014,
+        "Open": 470.0200929511,
+        "Close": 471.95703125
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2015,
+        "Open": 571.9178114231,
+        "Close": 565.9119873047
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2016,
+        "Open": 524.7283793673,
+        "Close": 521.5818481445
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2017,
+        "Open": 548.6881178515,
+        "Close": 543.62890625
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2018,
+        "Open": 727.7066501323,
+        "Close": 724.3168334961
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2019,
+        "Open": 1038.4998901206,
+        "Close": 1025.9307861328
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2020,
+        "Open": 1413.2838925797,
+        "Close": 1409.4738769531
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2021,
+        "Open": 1774.3066552483,
+        "Close": 1780.1921386719
+    },
+    {
+        "Symbol": "NestleIndia",
+        "Year": 2022,
+        "Open": 1921.892014275,
+        "Close": 1920.2282714844
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2012,
+        "Open": 190.593118686,
+        "Close": 191.1499023438
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2013,
+        "Open": 217.721969969,
+        "Close": 218.3316497803
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2014,
+        "Open": 403.3198619042,
+        "Close": 404.7521057129
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2015,
+        "Open": 819.684335679,
+        "Close": 816.5411987305
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2016,
+        "Open": 1328.0719931084,
+        "Close": 1338.8314208984
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2017,
+        "Open": 1309.73286279,
+        "Close": 1303.1188964844
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2018,
+        "Open": 2156.6801605039,
+        "Close": 2151.3452148438
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2019,
+        "Open": 2844.2202838327,
+        "Close": 2828.7685546875
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2020,
+        "Open": 2791.6510848318,
+        "Close": 2787.0207519531
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2021,
+        "Open": 3386.3206886766,
+        "Close": 3379.5007324219
+    },
+    {
+        "Symbol": "BritanniaIndustries",
+        "Year": 2022,
+        "Open": 3488.9672424166,
+        "Close": 3496.2641601562
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2012,
+        "Open": 119.3847361243,
+        "Close": 115.2813720703
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2013,
+        "Open": 227.3836415703,
+        "Close": 226.165512085
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2014,
+        "Open": 271.5026711938,
+        "Close": 267.3233032227
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2015,
+        "Open": 306.7813562494,
+        "Close": 305.4846496582
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2016,
+        "Open": 422.009412263,
+        "Close": 426.4902648926
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2017,
+        "Open": 482.395184801,
+        "Close": 485.6661376953
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2018,
+        "Open": 649.0903853661,
+        "Close": 635.1162109375
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2019,
+        "Open": 796.9939892446,
+        "Close": 791.4552001953
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2020,
+        "Open": 679.4453505695,
+        "Close": 685.8439331055
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2021,
+        "Open": 738.346616082,
+        "Close": 735.3116455078
+    },
+    {
+        "Symbol": "Godrej",
+        "Year": 2022,
+        "Open": 969.1048015187,
+        "Close": 952.8850097656
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2012,
+        "Open": 88.7351295695,
+        "Close": 89.7627716064
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2013,
+        "Open": 116.7423764369,
+        "Close": 117.0136489868
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2014,
+        "Open": 155.847237145,
+        "Close": 157.0801391602
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2015,
+        "Open": 215.4298562982,
+        "Close": 214.5987854004
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2016,
+        "Open": 257.1613965707,
+        "Close": 257.1148681641
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2017,
+        "Open": 260.5362027235,
+        "Close": 259.7395935059
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2018,
+        "Open": 331.2762860405,
+        "Close": 329.388671875
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2019,
+        "Open": 414.256092628,
+        "Close": 404.757232666
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2020,
+        "Open": 443.9067245201,
+        "Close": 444.0032653809
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2021,
+        "Open": 519.0613814625,
+        "Close": 519.2557983398
+    },
+    {
+        "Symbol": "Dabur",
+        "Year": 2022,
+        "Open": 569.0056862519,
+        "Close": 570.1339111328
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2016,
+        "Open": 62.1852791239,
+        "Close": 66.4514770508
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2017,
+        "Open": 55.822137207,
+        "Close": 57.7383117676
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2018,
+        "Open": 94.7219829233,
+        "Close": 95.2451477051
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2019,
+        "Open": 115.1762279231,
+        "Close": 118.8574905396
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2020,
+        "Open": 154.9994867943,
+        "Close": 153.5065765381
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2021,
+        "Open": 200.8775835196,
+        "Close": 199.9855194092
+    },
+    {
+        "Symbol": "VarunBeverages",
+        "Year": 2022,
+        "Open": 294.1943985065,
+        "Close": 291.6419372559
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2012,
+        "Open": 395.3760664649,
+        "Close": 391.2832336426
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2013,
+        "Open": 638.3389459173,
+        "Close": 633.7474365234
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2014,
+        "Open": 565.70183867,
+        "Close": 564.8302612305
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2015,
+        "Open": 753.1582947483,
+        "Close": 761.5290527344
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2016,
+        "Open": 829.8753414344,
+        "Close": 833.0737304688
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2017,
+        "Open": 781.0532093204,
+        "Close": 776.3963623047
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2018,
+        "Open": 954.7015821978,
+        "Close": 960.8890380859
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2019,
+        "Open": 1201.1522560271,
+        "Close": 1178.1044921875
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2020,
+        "Open": 1321.8324337264,
+        "Close": 1326.7813720703
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2021,
+        "Open": 1454.6530575929,
+        "Close": 1467.1546630859
+    },
+    {
+        "Symbol": "ColgatePalmoliveIndia",
+        "Year": 2022,
+        "Open": 1413.0458977021,
+        "Close": 1395.6927490234
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2012,
+        "Open": 1610.4551080062,
+        "Close": 1558.2866210938
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2013,
+        "Open": 2385.9057118837,
+        "Close": 2377.34765625
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2014,
+        "Open": 2680.3694933217,
+        "Close": 2633.443359375
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2015,
+        "Open": 5052.6850981945,
+        "Close": 5095.65234375
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2016,
+        "Open": 4962.014712618,
+        "Close": 4937.5615234375
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2017,
+        "Open": 6291.0335015085,
+        "Close": 6197.7314453125
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2018,
+        "Open": 8831.4983581897,
+        "Close": 8817.771484375
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2019,
+        "Open": 9169.9568446363,
+        "Close": 9255.65625
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2020,
+        "Open": 10771.5208056359,
+        "Close": 10751.0712890625
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2021,
+        "Open": 10626.8412004117,
+        "Close": 10479.7197265625
+    },
+    {
+        "Symbol": "ProcterGambleIndia",
+        "Year": 2022,
+        "Open": 15139.5775464193,
+        "Close": 15056.935546875
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2014,
+        "Open": 131.0583136363,
+        "Close": 124.9411239624
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2015,
+        "Open": 152.4199451162,
+        "Close": 150.5750732422
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2016,
+        "Open": 200.107087832,
+        "Close": 203.6672668457
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2017,
+        "Open": 251.9390095966,
+        "Close": 250.485534668
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2018,
+        "Open": 576.1414667582,
+        "Close": 574.6436157227
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2019,
+        "Open": 441.9352940874,
+        "Close": 439.8424987793
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2020,
+        "Open": 420.0808711656,
+        "Close": 415.6081237793
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2021,
+        "Open": 697.6077917263,
+        "Close": 696.5001831055
+    },
+    {
+        "Symbol": "HatsunAgroProducts",
+        "Year": 2022,
+        "Open": 1237.8027485931,
+        "Close": 1223.4085693359
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2012,
+        "Open": 97.3813538967,
+        "Close": 94.3979949951
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2013,
+        "Open": 171.3714135156,
+        "Close": 170.0237121582
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2014,
+        "Open": 204.970507844,
+        "Close": 205.3795928955
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2015,
+        "Open": 343.4164529975,
+        "Close": 348.4227905273
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2016,
+        "Open": 439.8344985022,
+        "Close": 435.4978027344
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2017,
+        "Open": 417.1257461439,
+        "Close": 430.7929382324
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2018,
+        "Open": 595.7468156903,
+        "Close": 595.6576538086
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2019,
+        "Open": 378.1675681172,
+        "Close": 377.760925293
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2020,
+        "Open": 285.4084610294,
+        "Close": 287.7561645508
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2021,
+        "Open": 401.0025396156,
+        "Close": 399.4000549316
+    },
+    {
+        "Symbol": "Emami",
+        "Year": 2022,
+        "Open": 497.3771093303,
+        "Close": 499.3873291016
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2012,
+        "Open": 230.4048435192,
+        "Close": 228.1929626465
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2013,
+        "Open": 342.7201791048,
+        "Close": 342.905670166
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2014,
+        "Open": 529.4037533344,
+        "Close": 533.223449707
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2015,
+        "Open": 771.3458650018,
+        "Close": 767.332824707
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2016,
+        "Open": 758.515007383,
+        "Close": 763.6651000977
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2017,
+        "Open": 593.4904631423,
+        "Close": 594.4749145508
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2018,
+        "Open": 539.4300807476,
+        "Close": 541.8369750977
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2019,
+        "Open": 409.4610529033,
+        "Close": 410.4551086426
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2020,
+        "Open": 412.5502415502,
+        "Close": 413.8366088867
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2021,
+        "Open": 569.7416354965,
+        "Close": 573.3475952148
+    },
+    {
+        "Symbol": "SunPharma",
+        "Year": 2022,
+        "Open": 821.805567568,
+        "Close": 825.6471557617
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2012,
+        "Open": 1459.7869628687,
+        "Close": 1445.6491699219
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2013,
+        "Open": 1701.4957169116,
+        "Close": 1705.3509521484
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2014,
+        "Open": 2379.7686102568,
+        "Close": 2372.7087402344
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2015,
+        "Open": 3040.9465462447,
+        "Close": 3022.587890625
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2016,
+        "Open": 2952.075581751,
+        "Close": 2942.4208984375
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2017,
+        "Open": 2918.3651882727,
+        "Close": 2934.9272460938
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2018,
+        "Open": 2311.0530263934,
+        "Close": 2305.4431152344
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2019,
+        "Open": 2532.4421800039,
+        "Close": 2521.7536621094
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2020,
+        "Open": 2807.1317893082,
+        "Close": 2806.546875
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2021,
+        "Open": 5118.0077471858,
+        "Close": 5141.6494140625
+    },
+    {
+        "Symbol": "DrReddy",
+        "Year": 2022,
+        "Open": 4835.7735265967,
+        "Close": 4782.705078125
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2012,
+        "Open": 303.1230689489,
+        "Close": 302.9813842773
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2013,
+        "Open": 395.2895955421,
+        "Close": 396.6674194336
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2014,
+        "Open": 384.404391827,
+        "Close": 383.6881103516
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2015,
+        "Open": 601.062801667,
+        "Close": 602.8856811523
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2016,
+        "Open": 628.4360620789,
+        "Close": 630.5045166016
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2017,
+        "Open": 550.0448646141,
+        "Close": 546.4245605469
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2018,
+        "Open": 589.0592900399,
+        "Close": 592.4502563477
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2019,
+        "Open": 506.2461680178,
+        "Close": 509.2154846191
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2020,
+        "Open": 470.9950227298,
+        "Close": 466.0010986328
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2021,
+        "Open": 807.7780559112,
+        "Close": 811.5086669922
+    },
+    {
+        "Symbol": "Cipla",
+        "Year": 2022,
+        "Open": 934.8890463337,
+        "Close": 918.551574707
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2012,
+        "Open": 530.7764629827,
+        "Close": 525.1693115234
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2013,
+        "Open": 754.6164298305,
+        "Close": 753.9468383789
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2014,
+        "Open": 904.3893836167,
+        "Close": 932.3314208984
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2015,
+        "Open": 1093.7049959922,
+        "Close": 1088.7731933594
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2016,
+        "Open": 1416.5552823987,
+        "Close": 1418.7891845703
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2017,
+        "Open": 1150.9927585161,
+        "Close": 1159.9665527344
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2018,
+        "Open": 1192.6235171231,
+        "Close": 1179.4321289062
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2019,
+        "Open": 1234.4810076276,
+        "Close": 1247.6829833984
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2020,
+        "Open": 1424.4254864434,
+        "Close": 1410.9230957031
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2021,
+        "Open": 2387.680834762,
+        "Close": 2396.9616699219
+    },
+    {
+        "Symbol": "ApolloHospitals",
+        "Year": 2022,
+        "Open": 5004.1782332694,
+        "Close": 4956.5541992188
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2012,
+        "Open": 336.3373925802,
+        "Close": 347.1755065918
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2013,
+        "Open": 500.9603957001,
+        "Close": 493.6561279297
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2014,
+        "Open": 560.6559389112,
+        "Close": 560.2222290039
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2015,
+        "Open": 802.8055408079,
+        "Close": 807.7339477539
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2016,
+        "Open": 1078.8687010669,
+        "Close": 1086.8153076172
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2017,
+        "Open": 750.7476001157,
+        "Close": 753.6285400391
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2018,
+        "Open": 1046.3351468298,
+        "Close": 1050.2052001953
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2019,
+        "Open": 1429.995017327,
+        "Close": 1420.7987060547
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2020,
+        "Open": 1795.5060188178,
+        "Close": 1770.0574951172
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2021,
+        "Open": 3763.8897450156,
+        "Close": 3773.7431640625
+    },
+    {
+        "Symbol": "DivisLaboratories",
+        "Year": 2022,
+        "Open": 4616.1045426297,
+        "Close": 4578.94140625
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2012,
+        "Open": 351.7466994152,
+        "Close": 351.283996582
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2013,
+        "Open": 470.8766024511,
+        "Close": 487.8206481934
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2014,
+        "Open": 515.9362859837,
+        "Close": 522.9410400391
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2015,
+        "Open": 782.8056723879,
+        "Close": 775.5415649414
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2016,
+        "Open": 823.9160396211,
+        "Close": 830.553894043
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2017,
+        "Open": 848.4661832809,
+        "Close": 849.7767944336
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2018,
+        "Open": 1028.2018026754,
+        "Close": 1019.2014160156
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2019,
+        "Open": 1341.5864207487,
+        "Close": 1344.3410644531
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2020,
+        "Open": 1443.6068225811,
+        "Close": 1447.5070800781
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2021,
+        "Open": 1975.4865832741,
+        "Close": 2044.3758544922
+    },
+    {
+        "Symbol": "ZydusLifesciences",
+        "Year": 2022,
+        "Open": 1868.7257201002,
+        "Close": 1861.4237060547
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2012,
+        "Open": 114.2264360332,
+        "Close": 113.4513778687
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2013,
+        "Open": 154.3842588644,
+        "Close": 155.064743042
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2014,
+        "Open": 205.0141744753,
+        "Close": 204.102142334
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2015,
+        "Open": 496.7858669592,
+        "Close": 505.8384094238
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2016,
+        "Open": 650.794218276,
+        "Close": 659.2640380859
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2017,
+        "Open": 603.277268051,
+        "Close": 600.3459472656
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2018,
+        "Open": 657.3079364098,
+        "Close": 644.0830078125
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2019,
+        "Open": 834.4113290024,
+        "Close": 830.482421875
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2020,
+        "Open": 876.0949422098,
+        "Close": 870.8049926758
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2021,
+        "Open": 1333.9231879806,
+        "Close": 1330.1873779297
+    },
+    {
+        "Symbol": "TorrentPharmaceuticals",
+        "Year": 2022,
+        "Open": 1580.5549499189,
+        "Close": 1567.8276367188
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2012,
+        "Open": 422.4054362984,
+        "Close": 410.8525695801
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2013,
+        "Open": 578.8016564686,
+        "Close": 578.3782348633
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2014,
+        "Open": 866.3992919922,
+        "Close": 866.3992919922
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2015,
+        "Open": 1358.52826504,
+        "Close": 1359.2890625
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2016,
+        "Open": 1753.2452956442,
+        "Close": 1761.982421875
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2017,
+        "Open": 1427.1448717417,
+        "Close": 1444.1689453125
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2018,
+        "Open": 858.757378119,
+        "Close": 852.7233886719
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2019,
+        "Open": 824.4237238906,
+        "Close": 817.3811035156
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2020,
+        "Open": 748.2222797041,
+        "Close": 753.9417724609
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2021,
+        "Open": 962.3588657138,
+        "Close": 984.9429931641
+    },
+    {
+        "Symbol": "Lupin",
+        "Year": 2022,
+        "Open": 941.0587892691,
+        "Close": 935.3688964844
+    },
+    {
+        "Symbol": "MaxHealthcare",
+        "Year": 2020,
+        "Open": 106.2734462883,
+        "Close": 111.5646591187
+    },
+    {
+        "Symbol": "MaxHealthcare",
+        "Year": 2021,
+        "Open": 140.0173883538,
+        "Close": 142.2636566162
+    },
+    {
+        "Symbol": "MaxHealthcare",
+        "Year": 2022,
+        "Open": 448.6546530791,
+        "Close": 433.8792114258
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2012,
+        "Open": 39.6229387019,
+        "Close": 39.7843818665
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2013,
+        "Open": 88.3987211171,
+        "Close": 90.1224365234
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2014,
+        "Open": 185.6712309351,
+        "Close": 184.8219146729
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2015,
+        "Open": 540.0485590367,
+        "Close": 534.2186279297
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2016,
+        "Open": 837.37431409,
+        "Close": 838.8018188477
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2017,
+        "Open": 642.8323399948,
+        "Close": 645.2202758789
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2018,
+        "Open": 661.8560755435,
+        "Close": 656.0528564453
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2019,
+        "Open": 706.383302933,
+        "Close": 705.5653076172
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2020,
+        "Open": 444.2957851414,
+        "Close": 442.8457336426
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2021,
+        "Open": 898.6462259594,
+        "Close": 902.5863647461
+    },
+    {
+        "Symbol": "AurobindoPharma",
+        "Year": 2022,
+        "Open": 722.4189156952,
+        "Close": 716.5463867188
+    }
+]

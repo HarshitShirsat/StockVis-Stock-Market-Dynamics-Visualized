@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D3.js Visualization</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="css/v7.css">
+</head>
+
+<body>
+  <div class="chart-container-full-width">
+    <div class="toolbar">
+      <div class="sector-dropdown">
+        <label for="sector">Sector: </label>
+        <select id="sectorDropdown" onchange="drawViz3()">
+          <option value="techSector">Technology Sector</option>
+          <option value="finSector">Financial Sector</option>
+          <option value="healthSector">Health Sector</option>
+          <option value="fmcgSector">FMCG Sector</option>
+          <option value="oilSector">Oil Sector</option>
+        </select>
+      </div>
+      <div class="date-filters">
+        <label for="startDate">Start Date:</label>
+        <input type="date" id="startDate" value="2016-01-02" min="2016-01-02" max="2021-01-01">
+
+        <label for="endDate">End Date:</label>
+        <input type="date" id="endDate" value="2022-12-01" min="2017-01-02" max="2022-12-01">
+      </div>
+      <button class="btn-reset">Reset</button>
+    </div>
+  </div>
+  <div class="chart-container-full-width">
+    <div id="chart1"></div>
+    <div id="tooltip1" class="tooltip" style="opacity:0;"></div>
+  </div>
+  <div class="chart-container-full-width">
+    <div id="chart2"></div>
+    <div id="tooltip-chart2" class="tooltip" style="opacity:0;"></div>
+  </div>
+  <div class="chart-grid">
+    <div id="chart3" class="chart-container-column">
+      <div class="column">
+        <div class="col-md-4">
+          <label for="year">Select Year:</label>
+          <select id="year" class="form-select" onchange="drawViz3()">
+            <option value=2014>2014</option>
+            <option value=2015>2015</option>
+            <option value=2016>2016</option>
+            <option value=2017>2017</option>
+            <option value=2018>2018</option>
+            <option value=2019>2019</option>
+            <option value=2020>2020</option>
+            <option value=2021>2021</option>
+            <option value=2022>2022</option>
+          </select>
+        </div>
+        <div id="myDataVis">
+          <!-- create svg here -->
+          <svg id="legend-plot" height="50px" style="margin-top:10px"></svg>
+          <svg id="dual-plot-1" class="viz" width="100%" height="200px"></svg>
+          <svg id="dual-plot-2" class="viz" width="100%" height="200px"></svg>
+          <svg id="dual-plot-3" class="viz" width="100%" height="200px"></svg>
+          <svg id="dual-plot-4" class="viz" width="100%" height="200px"></svg>
+          <svg id="dual-plot-5" class="viz" width="100%" height="200px"></svg>
+        </div>
+      </div>
+    </div>
+    <div class="chart-container-column-row">
+      <div id="chart4" class="chart-container-row">
+        <label for="chart4-dropdown">Select Company:</label>
+        <select id="companyDropdownv4"></select>
+        <select id="priceTypeDropdownv4">
+            <option value="opening">Opening Price</option>
+            <option value="closing">Closing Price</option>
+        </select>
+      </div>
+      <div id="chart6" class="chart-container-row">
+
+        <div class="chart6-dropdown-container">
+          <label for="chart6-dropdown">Select Data Type:</label>
+          <select id="chart6-dropdown">
+            <option value="mc">Market Cap Change</option>
+            <option value="pe">PE Ratio Change</option>
+          </select>
+        </div>
+        <svg id="chart6svg">
+        </svg>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="chart-container-full-width">
+    <!-- Range slider for selecting the number of companies -->
+    <div id="slider-containerv5">
+      <label for="companyRangev5">Number of Companies: <span id="rangeValuev5">10</span></label>
+      <input type="range" id="companyRangev5" min="1" max="10" value="10" step="1">
+    </div>
+    <div id="chart5">
+      <svg id="chart5svg">
+      </svg>
+      <div id="tooltipv5">
+      </div>
+    </div>
+  </div>
+
+  <div class="chart-container-full-width">
+    <div id="chart7">
+      <div>
+        <h3 class="text-center">Project Extension - PCA Plots for Financial Data by Year</h1>
+          <div class='checkbox_row'>
+            <!-- <h1 class='col-12 d-flex justify-content-center'>Finance t-SNE</h1> -->
+            <div class="custom_checkbox">
+              <input class='mycheckbox' type='checkbox' checked id='Market_Cap_Checkbox' />
+              <label class='my-checkbox-label'>Market Cap</label>
+            </div>
+            <div class="custom_checkbox">
+              <input class='mycheckbox' type='checkbox' checked id='MC_Change_Checkbox' />
+              <label class='my-checkbox-label'>MC Change</label>
+            </div>
+            <div class="custom_checkbox">
+              <input class='mycheckbox' type='checkbox' id='PE_Ratio_Checkbox' />
+              <label class='my-checkbox-label'>PE_Ratio</label>
+            </div>
+            <div class="custom_checkbox">
+              <input class='mycheckbox' type='checkbox' id='PE_Change_Checkbox' />
+              <label class='my-checkbox-label'>PE_Change</label>
+            </div>
+
+          </div>
+          <br>
+          <div id="table_div">
+
+          </div>
+          <br>
+          <div class="container_v7" style="text-align:center;" id="scatter_plot_div_v7">
+            <svg class="svg_v7" id="scatter_plot_svg_v7"></svg>
+            <div style="width: 50px;"></div>
+            <p id="v7_explanation">
+              The t-SNE algorithm is a form of dimension reduction. Points of similarity are grouped in clusters by
+              preserving proximity. Checked attributes are used when calculating the t-SNE layout.
+              For viewing the similarity of features, check the attributes of interest. At least two boxes must be
+              checked.
+            </p>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+  <script src="js/chart6.js"></script>
+  <script src="js/chart3.js"></script>
+  <script type="text/javascript" src="js/v7.js"></script>
+</body>
+
+</html>

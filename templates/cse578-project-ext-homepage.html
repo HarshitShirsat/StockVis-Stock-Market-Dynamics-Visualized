@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <title>DV Course Project - CSE 578</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" />
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+    </head>
+    <style>
+        .myContainer {
+            margin:auto;
+            width: 500px;
+            height:400px;
+            background-color: cornsilk;
+        }
+        .myAnchor {
+            width: 400;
+            font-weight: bold;
+            height:50px;
+            background-color: mintcream;
+            border: 3px solid darkgreen;
+            border-radius: 3px;
+            padding: 10px;
+            font-size: x-large;
+            margin: auto;
+            text-align: center;
+        } 
+        .anchorClass {
+            text-align:center;
+        }
+
+        p {
+            font-size: x-large;
+        }
+
+    </style>
+    <body>
+        <div class="container">
+            <h1 class="text-center">CSE 578:  Course Project</h1>
+            <h2 class="text-center">Student:  Manuel Steele</h2>
+            <h2 class="text-center">Email:  riverdy@asu.edu</h2>
+            <br>
+            <h2>Summary: </h2>
+            <br>
+            <p>
+                This homepage is for the extended visualization for rendering tSNE of the financial data.  The flask application
+                processes the financial data to create a plot of similar data forming in clusters based on the selected columns or 
+                features of the initial data set.  The data is imported into a dataframe, scaled, and then fitted with a tSNE model.
+                The scaled data is then used to generate output with x,y format.  The latter is retrieved and rendered into d3 using
+                an HTTP POST request which is handled for updates.     
+            </p>
+            <h3>Precondition:  the flask instance of application.py must be running prior to analysis with web app navigation.</h3>
+            <br>
+
+            <div class = "anchorClass">
+                <a href="{{ url_for('tsne') }}" class = "myAnchor" id="anchorToFlask">Click link to go to template home page rendered for python flask</a>
+            </div>
+            
+        </div><!-- This is the end of the "container" div -->
+    </body>
+</html> 
